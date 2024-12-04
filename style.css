@@ -1,0 +1,32 @@
+*,html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:azure;
+    margin:0;
+    padding: 0;
+}
+
+.heading {
+    text-align:center;
+    color:rgb(255, 143, 123);
+    border-bottom-color: aquamarine;
+    border-bottom: solid rgb(246, 158, 117);
+    margin: 0 5px 0 5px;
+    padding:10px;
+}
+
+.home-list li {
+    display:block;
+    margin: auto;
+    padding: 10px;
+    width:500px;
+    list-style:none;
+    text-align:center;
+    background-color: rgb(249, 178, 140);
+    
+}
+
+.images{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
